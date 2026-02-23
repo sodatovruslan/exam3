@@ -1,1 +1,8 @@
 @import "tailwindcss";
+.backimg{
+	background-image: url(../img/Frame\ \(27\).png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 50%;
+	height: 700px;
+}
